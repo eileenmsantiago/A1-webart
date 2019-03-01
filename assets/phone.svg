@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="700px" viewBox="0 0 370 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="700" rx="58"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iphone" transform="translate(-1.000000, 0.000000)">
+            <g id="Group-3" transform="translate(1.000000, 0.000000)">
+                <g id="buttons" transform="translate(0.000000, 112.000000)" fill="#D8D8D8">
+                    <rect id="volDownButton" x="0" y="127" width="17" height="60" rx="7"></rect>
+                    <rect id="volUpButton" x="0" y="52" width="17" height="60" rx="7"></rect>
+                    <rect id="soundButton" x="0" y="0" width="17" height="29" rx="6"></rect>
+                    <rect id="powerButton" x="353" y="30" width="17" height="91" rx="8.5"></rect>
+                </g>
+                <g id="phone" transform="translate(4.000000, 0.000000)">
+                    <g id="body">
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#B6B6B6" stroke-width="3.5" x="1.75" y="1.75" width="356.5" height="696.5" rx="58"></rect>
+                    </g>
+                    <rect id="insideScreen" fill="#FFFFFF" x="18.9949749" y="21" width="322.914573" height="661.5" rx="35"></rect>
+                </g>
+                <g id="cam" transform="translate(88.000000, 8.000000)">
+                    <rect id="topCam" fill="#000000" x="0" y="0" width="182" height="38" rx="19"></rect>
+                    <g id="Group" transform="translate(62.000000, 13.000000)" fill="#323232">
+                        <rect id="speaker" x="0" y="4" width="46" height="4" rx="2"></rect>
+                        <circle id="camera" cx="65" cy="6" r="6"></circle>
+                    </g>
+                </g>
+                <text id="7:00" font-family="ArialMT, Arial" font-size="11" font-weight="normal" letter-spacing="1" fill="#000000">
+                    <tspan x="48.7954102" y="41">7:00</tspan>
+                </text>
+                <g id="Group-2" transform="translate(284.000000, 31.000000)">
+                    <g id="battery">
+                        <path d="M0.486838965,0.502463028 L19.486839,0.00217034624 C19.7628857,-0.00509829279 19.9925581,0.212789373 19.9998268,0.488836068 C19.9999422,0.49322213 20,0.497609522 20,0.501997103 L20,9.49844833 C20,9.77459071 19.7761424,9.99844833 19.5,9.99844833 C19.4965769,9.99844833 19.4931538,9.99841318 19.4897314,9.99834288 L0.489731408,9.60805406 C0.21764837,9.60246506 1.88834306e-15,9.38029995 8.8817842e-16,9.10815951 L1.11022302e-16,1.00228979 C7.78324175e-17,0.731273807 0.21591689,0.50959673 0.486838965,0.502463028 Z" id="Rectangle-3" fill="#46DB60"></path>
+                        <rect id="Rectangle" stroke="#353535" stroke-width="0.6" x="0.3" y="0.3" width="22.4" height="9.4" rx="1.5"></rect>
+                        <rect id="Rectangle-2" fill="#353535" x="23" y="3" width="1" height="3"></rect>
+                    </g>
+                    <polygon id="energyIcon" fill="#353535" points="35.4330227 0 32 6.34470663 33.9717531 6.34470663 32.7926616 11 37 4.84658211 34.5704449 4.84658211"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

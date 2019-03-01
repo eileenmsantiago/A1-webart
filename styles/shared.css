@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=K2D:300,400,500,700');
+
+html, body {
+  font-family: 'Helevetica Neue', sans-serif;
+  font-size: 12px;
+  line-height: 28px;
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #c79c00;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #c79c00;
+  text-decoration: none;
+}
+
+a:active {
+  color: #fff;
+  text-decoration: none;
+}
+
+.statement {
+  padding: 25px;
+}
+

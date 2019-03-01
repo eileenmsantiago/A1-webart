@@ -1,0 +1,98 @@
+body {
+    background-color: black;
+    padding: 100px;
+    font-family: 'Helvetica Neue', sans-serif;
+    overflow-y: auto;
+ 
+}
+
+.content {
+    color: white;
+    font-size: 16px;
+
+}
+
+h1 {
+    color: #c79c00;
+    font-size: 225px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: -5px;
+    line-height: 1;;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+.underline {
+    width: 220px;
+    height:20px;
+    background: #c79c00;
+    margin-left: 200px;
+
+}
+
+.para {
+    margin-left: 200px;
+    margin-top: 200px;
+    width: 500px;
+    text-align: inter-word;
+}
+
+.para .header-1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: 5px;
+    line-height: 1.1em;
+    margin:0px;
+    text-align: center;
+  }
+
+.para .para-1{
+    margin-top: 800px;
+    width: 625px;
+    text-align: right;
+}
+
+.para .para-2{
+    margin-left: 200px;
+    margin-top: 1000px;
+    width: 500px;
+    text-align: inter-word;
+}
+
+.para a:link {
+    color: #fff;
+}
+
+.para a:visited {
+    color: #fff;
+}
+
+.para a:active {
+    color: #fff;
+} 
+
+.para a:hover {
+    font-weight: bold;
+    color: #c79c00;
+}
+
+.click-power-index {
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+
+.click-power-index img {
+    opacity: 0;
+    filter: alpha(opacity=0)
+}
+
+.click-power-index img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+
+
